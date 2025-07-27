@@ -1,1 +1,1 @@
-printf("Testing the first file")
+print("Testing the first file")
